@@ -22,7 +22,7 @@
 *Potet*
 
 ### Bilde test
-![alt text](Tree.gif)
+![Tree](Tree.gif)
 
 ### Kodeblokk test
 `print("Potet")`
