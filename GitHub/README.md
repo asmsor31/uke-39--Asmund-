@@ -1,19 +1,19 @@
 # README.md
 
 ### Hva har du lært om Git og GitHub?
-- Egentlig alt jeg har gjort på Github i denne oppgaven. jeg kunne ikke noe av det fra før.
+- Jeg har egentlig lært alt jeg har gjort på Github i denne oppgaven. jeg kunne ikke noe av det fra før.
 ---
 
 ### Hva synes du om å bruke versjonskontroll?
-- Jeg har ikke brukt versjonskontroll, fordi vi har ikke så mye arbeid denne oppgaven.
+- Jeg har ikke brukt versjonskontroll...
 ---
 
 ### Hva har du lært om Markdown?
-- Egentlig alt, men mye av Markdown-syntaks brukes også på Discord, så jeg kunne det fra før.
+- Egentlig alt jeg har gjort i denne oppgaven , men mye av Markdown-syntaks brukes også på Discord, så jeg kunne det fra før.
 ---
 
 ### Hvordan kan Markdown brukes til dokumentasjon?
-- Mye mer ryddig.
+- Du kan ha det mye mer ryddig.
 - Du kan vite hva du har forandret når og hvor i filen.
 ---
 
