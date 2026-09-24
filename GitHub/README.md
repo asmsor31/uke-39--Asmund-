@@ -5,7 +5,7 @@
 ---
 
 ### Hva synes du om å bruke versjonskontroll?
-- Jeg har ikke brukt versjonskontroll...
+- Jeg har ikke brukt versjonskontroll, fordi jeg forsto ingenting av github.
 ---
 
 ### Hva har du lært om Markdown?
