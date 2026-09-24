@@ -12,7 +12,7 @@
 3. Kanskje det er for mye potet?
 
 ### Link test
-[Github](https://github.com)
+[Github.com](https://github.com)
 <br>
 [Potet...?](https://asmsor31.imkatta.no/tree/)
 
