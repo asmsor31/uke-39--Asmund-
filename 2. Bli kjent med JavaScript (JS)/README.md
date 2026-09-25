@@ -14,3 +14,8 @@ Jeg gikk litt lenge enn å bare lage en enkel teller. Jeg lagde seks knapper som
 - Random fun fact; Tallet i overskriften "Potet Simulator 2469" er antall meter høy galdhøpiggen er.
 - 2 forskjellige window alert kommer opp hvis du får 2469 poteter eller -2469.
 
+
+## Bli kjent med JavaScript
+- Jeg har testet veldig mye rundt med knapper, og hvordan variabler fungerer i javascript.
+- Det jeg har lært er alt jeg har gjort i oppgaven. Jeg kunne ingenting om javascript før denne oppgaven.
+- Det eneste problemet jeg fikk som jeg kommer på akkurat nå, er at jeg slet litt med å få det til å komme opp en window.alert når du kom på noen spesefike tall på Potet Simulator 2469.
